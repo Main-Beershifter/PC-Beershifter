@@ -30,4 +30,4 @@ Review the exact changed files and sensitive-data/copyright boundaries before pu
 
 Do not publish credentials, cookies, tokens, serial numbers, private network identifiers, account/financial data, private logs, raw conversations, commercial source copies, or material derived from sensitive inputs without specific authorization. If content classification or intended publication is unclear, preserve a safe checkpoint and explain the question.
 
-No scheduler, notifications, background monitoring, remote PC service, or cross-project message channel is authorized by task-triggered saving. Do not claim uninterrupted operation while the conversation is inactive.
+The user authorized periodic PC context synchronization on 2026-09-18. Follow CONTEXT_SYNC_POLICY.md for the enabled six-hour check and its publication boundaries. Other background services remain outside scope. Do not claim uninterrupted operation or universal agent access.
